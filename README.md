@@ -1,4 +1,4 @@
-  
+
 # Detector de Instrumentos Musicales Andinos con YOLOv10
 
 Este proyecto utiliza el modelo de detección de objetos **YOLOv10** para identificar 5 instrumentos musicales andinos a través de *transfer learning*. La aplicación es capaz de realizar detecciones en tiempo real mediante una cámara web o analizar un archivo de video preexistente.
@@ -40,8 +40,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git https://github.com/duraznao/ups_dcc_vision_artificial_actividad_2
+cd ups_dcc_vision_artificial_actividad_2
 ```
 
 ### 2. Estructura de directorios (¡importante!)
