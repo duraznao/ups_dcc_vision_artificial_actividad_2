@@ -1,7 +1,4 @@
-Claro, aquí tienes una propuesta completa para el archivo `README.md`. Este documento está diseñado para ser claro y guiar a cualquier persona que encuentre tu proyecto en GitHub, basándose en nuestra exitosa implementación en Windows.
-
------
-
+  
 # Detector de Instrumentos Musicales Andinos con YOLOv10
 
 Este proyecto utiliza el modelo de detección de objetos **YOLOv10** para identificar 5 instrumentos musicales andinos a través de *transfer learning*. La aplicación es capaz de realizar detecciones en tiempo real mediante una cámara web o analizar un archivo de video preexistente.
