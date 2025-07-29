@@ -1,0 +1,11 @@
+
+path: c:\Users\ASUS\www\doctorado\VisionArtificial\YOLO\proyecto_yolo_ecuador\instrumentos_dataset
+train: train/images
+val: valid/images
+
+names:
+  - bombo_andino
+  - charango
+  - dulzaina
+  - pingullo
+  - rondador

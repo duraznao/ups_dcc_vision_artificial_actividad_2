@@ -1,0 +1,6 @@
+device,instrument,Detecciones_Totales,Confianza_Minima,Confianza_Maxima,Confianza_Promedio
+cpu,bombo_andino,470,0.25,0.98,0.5286808510638298
+cpu,charango,402,0.25,0.96,0.6118905472636815
+cpu,dulzaina,306,0.25,0.97,0.4937908496732026
+cpu,pingullo,801,0.25,0.99,0.5893632958801498
+cpu,rondador,452,0.25,1.0,0.699358407079646

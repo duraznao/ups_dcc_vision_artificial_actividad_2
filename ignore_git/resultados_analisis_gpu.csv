@@ -1,0 +1,6 @@
+device,instrument,Detecciones_Totales,Confianza_Minima,Confianza_Maxima,Confianza_Promedio
+cuda,bombo_andino,671,0.25,0.99,0.586929955290611
+cuda,charango,735,0.25,0.98,0.5809931972789115
+cuda,dulzaina,951,0.25,0.84,0.43267087276551003
+cuda,pingullo,1827,0.25,0.94,0.4549863163656267
+cuda,rondador,567,0.25,1.0,0.7671957671957672
